@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kier Fox]]></title>
         <description><![CDATA[Kier Fox]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kier-fox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 19:37:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 19:46:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kier-fox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79cbf7f6-aa9d-4617-9608-042ef50dea82.jpg">]]></description>
+            <link>https://thegrid.ai/kier-fox/beae19dc-cee8-41bc-aa8d-6cc96601c88f/index.html</link>
+            <guid isPermaLink="false">beae19dc-cee8-41bc-aa8d-6cc96601c88f</guid>
+            <pubDate>Wed, 23 Mar 2016 19:45:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2263ca49-d86b-4dee-8cc0-8871def9c786.jpg">]]></description>
-            <link>undefined531c21ae-363a-456e-b27c-d3b1512f7eb4/index.html</link>
+            <link>https://thegrid.ai/kier-fox/531c21ae-363a-456e-b27c-d3b1512f7eb4/index.html</link>
             <guid isPermaLink="false">531c21ae-363a-456e-b27c-d3b1512f7eb4</guid>
             <pubDate>Wed, 23 Mar 2016 19:37:47 GMT</pubDate>
         </item>
